@@ -33,7 +33,7 @@ public class ReusablePoolTest {
 	 * Test method for {@link ubu.gii.dass.c01.ReusablePool#getInstance()}.
 	 */
         @Test
-        @DisplayName("testGetInstance")
+        @DisplayName("testGetInstance ")
         @Disabled("Not implemented yet")
 	public void testGetInstance() {
 		
