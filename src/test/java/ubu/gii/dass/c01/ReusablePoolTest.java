@@ -34,8 +34,10 @@ public class ReusablePoolTest {
 	 */
         @Test
         @DisplayName("testGetInstance ")
-        @Disabled("Not implemented yet")
+      
 	public void testGetInstance() {
+        	
+        
 		
 	}
 
